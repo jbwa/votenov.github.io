@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Vote November
 description: On November 6, 2018, the citizens of the United States of America will be heard. Vote.
-show_downloads: true
+show_downloads: false
 google_analytics:
