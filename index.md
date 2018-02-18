@@ -4,6 +4,6 @@ layout: default
 
 Prepare to be **heard**. More to come.
 
-Twitter: [https://twitter.com/VoteNov](VoteNov)
+Twitter: [VoteNov](https://twitter.com/VoteNov)
 
-Instagram: [https://instagram.com/VoteNove](VoteNove)
+Instagram: [VoteNove](https://instagram.com/VoteNove)
