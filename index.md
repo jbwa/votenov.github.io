@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![VoteNov Stickers and buttons.](assets/voteNov.JPG){:class="img-responsive"}
+![VoteNov Stickers and buttons.](assets/VoteNov-StickersAndButtons.svg){:class="img-responsive"}
 
 ## Prepare to be heard.
 
