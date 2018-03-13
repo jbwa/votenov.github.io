@@ -15,7 +15,7 @@ Instagram: [VoteNove](https://instagram.com/VoteNove)
 
 A shop is being constructed in order to help people spread the silent word. Through stickers, buttons, signs, bumper stickers, and maybe even fake tattoos, we will be sellings goods to help support your loud voice that shouts, "VOTE!" Shop soon to open. If you are interested in getting some stickers, contact us <votenovember@gmail.com>.
 
-## Call for Designers
+## Call for Designers.
 
 The VoteNov design was purposely created as a blueprint in order to allow other individuals reimagine how the graphic should look. As a 4 letter by 4 letter grid, font, background, and the top four letter words waiting to be re-styled to fit your neighborhood, your crew, or a cause that is close to you. If you are interested in participating, please email us at <votenovember@gmail.com>.
 
