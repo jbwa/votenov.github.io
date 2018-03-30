@@ -13,7 +13,9 @@ Instagram: [VoteNove](https://instagram.com/VoteNove)
 
 ## The VoteNov Shop.
 
-A shop is being constructed in order to help people spread the silent word. Through stickers, buttons, signs, bumper stickers, and maybe even fake tattoos, we will be sellings goods to help support your loud voice that shouts, "VOTE!" Shop soon to open. If you are interested in getting some stickers, contact us <votenovember@gmail.com>.
+The [VoteNov Shop](http://shop.votenov.com/) is open for business! Get you PRE-VOTING stickers and buttons.
+
+By showing off stickers, buttons, signs, bumper stickers, and maybe even fake tattoos, we will be sellings goods to help support your loud voice that shouts, “VOTE!” If you have any additional suggestions, please let us know.
 
 ## Call for Designers.
 
