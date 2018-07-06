@@ -20,7 +20,7 @@ This is our most current 2018 US Primaries calendar. It doesn't YET reflect run 
 | Iowa           | 6/5/2018       |                |                                                                                                                                                            | 
 | Kansas         | 8/7/2018       |                |                                                                                                                                                            | 
 | Kentucky       | 5/22/2018      |                |                                                                                                                                                            | 
-| Louisiana      | 11/6/2018      | 12/8/2018      | Louisiana holds its primary for all parties on the same day the rest of the country holds the general election. If needed, a runoff is held in December. | 
+| Louisiana      | 11/6/2018      | 12/8/2018      | * | 
 | Maine          | 6/12/2018      |                |                                                                                                                                                            | 
 | Maryland       | 6/26/2018      |                |                                                                                                                                                            | 
 | Massachusetts  | 9/4/2018       |                |                                                                                                                                                            | 
@@ -34,7 +34,7 @@ This is our most current 2018 US Primaries calendar. It doesn't YET reflect run 
 | New Hampshire  | 9/11/2018      |                |                                                                                                                                                            | 
 | New Jersey     | 6/5/2018       |                |                                                                                                                                                            | 
 | New Mexico     | 6/5/2018       |                |                                                                                                                                                            | 
-| New York       | 9/13/2018      |                | New York holds its primary for federal offices on June 26, while the primary for state and local offices is September 13                                 | 
+| New York       | 9/13/2018      |                |        **                          | 
 | North Carolina | 5/8/2018       |                |                                                                                                                                                            | 
 | North Dakota   | 6/12/2018      |                |                                                                                                                                                            | 
 | Ohio           | 5/8/2018       |                |                                                                                                                                                            | 
@@ -53,3 +53,7 @@ This is our most current 2018 US Primaries calendar. It doesn't YET reflect run 
 | West Virginia  | 5/8/2018       |                |                                                                                                                                                            | 
 | Wisconsin      | 8/14/2018      |                |                                                                                                                                                            | 
 | Wyoming        | 8/21/2018      |                |                                                                                                                                                            | 
+
+* Louisiana holds its primary for all parties on the same day the rest of the country holds the general election. If needed, a runoff is held in December.
+
+** New York holds its primary for federal offices on June 26, while the primary for state and local offices is September 13
