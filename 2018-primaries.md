@@ -1,3 +1,6 @@
+This is our most current 2018 US Primaries calendar. It doesn't YET reflect run off elections that might be happening locally in your area. This list was generated based on the data found on the [National Conference of State Legislatures](http://www.ncsl.org/research/elections-and-campaigns/2018-state-primary-election-dates.aspx). As a single point of reference, please do additional research to better understand your local voting agenda.  
+
+
 | State          | Primary Date 1 | Primary Date 2 | Notes                                                                                                                                                      |
 |----------------|----------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|  
 | Alabama        | 6/5/2018       | 6/17/2018      |                                                                                                                                                            | 
@@ -17,7 +20,7 @@
 | Iowa           | 6/5/2018       |                |                                                                                                                                                            | 
 | Kansas         | 8/7/2018       |                |                                                                                                                                                            | 
 | Kentucky       | 5/22/2018      |                |                                                                                                                                                            | 
-| Louisiana      | 11/6/2018      | 12/8/2018      | "Louisiana holds its primary for all parties on the same day the rest of the country holds the general election. If needed, a runoff is held in December." | 
+| Louisiana      | 11/6/2018      | 12/8/2018      | Louisiana holds its primary for all parties on the same day the rest of the country holds the general election. If needed, a runoff is held in December. | 
 | Maine          | 6/12/2018      |                |                                                                                                                                                            | 
 | Maryland       | 6/26/2018      |                |                                                                                                                                                            | 
 | Massachusetts  | 9/4/2018       |                |                                                                                                                                                            | 
@@ -31,7 +34,7 @@
 | New Hampshire  | 9/11/2018      |                |                                                                                                                                                            | 
 | New Jersey     | 6/5/2018       |                |                                                                                                                                                            | 
 | New Mexico     | 6/5/2018       |                |                                                                                                                                                            | 
-| New York       | 9/13/2018      |                | "New York holds its primary for federal offices on June 26, while the primary for state and local offices is September 13"                                 | 
+| New York       | 9/13/2018      |                | New York holds its primary for federal offices on June 26, while the primary for state and local offices is September 13                                 | 
 | North Carolina | 5/8/2018       |                |                                                                                                                                                            | 
 | North Dakota   | 6/12/2018      |                |                                                                                                                                                            | 
 | Ohio           | 5/8/2018       |                |                                                                                                                                                            | 
