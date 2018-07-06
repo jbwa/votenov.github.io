@@ -5,7 +5,10 @@ layout: default
 
 ## Prepare to be heard.
 
-We are listening, building, and working on a way to improve the voter turnout for 2018. More details to come. In the meanwhile, follow us on the following social networks to stay in touch. 
+We are listening, building, and working on a way to improve the voter turnout for 2018. More details to come. Meanwhile,
+check out our [2018 Primaries Calendar](http://votenov.com/2018-primaries). If you see errors, want to help update/add, or think we could make this more accessible to people, please let us know.
+
+Also, follow us on the following social networks to stay in touch. 
 
 Twitter: [VoteNov](https://twitter.com/VoteNov)
 
