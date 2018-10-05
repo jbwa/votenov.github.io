@@ -1,6 +1,16 @@
-# Prepare to be heard.
+# Be heard NOW
 
-We are listening, building, and working on a way to improve the voter turnout for 2018. General elections are on November 6th, 2018 and there are state primaries between now and then. If you see errors, want to help update/add to @VoteNov, or think we could make this more accessible to people, please let us know.
+Between now and November 6, 2018, let's talk about voting, preparing to vote, helping other prepare to vote, and reminding each other that it is coming up very soon. Outside of the social and real life conversations, let's create some signs inviting others to vote with us. Here's your call to action:
+
+1. Print out this sign and put it in a place where many people can see it. [PNG](http://votenov.com/assets/votenov-700.png)
+2. [Download this SVG](http://votenov.com/assets/voteNov-stencil.svg) and laser cut it and produce a lot of signs (instructions soon to come!)
+3. Share what you make with others!! Put them on in your front yard, in your car, at the local coffee shop, in Walmart, everywhere. Remind EVERYONE of the day we vote.
+
+More to come!
+
+-Shelton
+
+PS, if you make a sign, snap a shot and be sure to tag VoteNov in it! (twitter: [VoteNov](https://twitter.com/VoteNov) instagram: [VoteNove](https://instagram.com/VoteNove) )
 
 ## Voter primaries are here!
 

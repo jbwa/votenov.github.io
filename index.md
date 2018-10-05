@@ -3,7 +3,7 @@ layout: default
 ---
 ![VoteNov Stickers and buttons.](assets/voteNov.JPG){:class="img-responsive"}
 
-# Be heard NOW
+# Have you voice heard NOW
 
 Between now and November 6, 2018, let's talk about voting, preparing to vote, helping other prepare to vote, and reminding each other that it is coming up very soon. Outside of the social and real life conversations, let's create some signs inviting others to vote with us. Here's your call to action:
 
@@ -55,3 +55,7 @@ Inscríbase para votar : [Vote.gov](https://vote.gov/es/)
 
 ## Who is behind this?
 @Shelton, and @TheEmpathyLab are currently steering this boat at the moment. So that we don't bring personal bias into this README, there is plenty more about the two elsewhere. Go check him and the Lab out.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 483fceb05928387d61d48b8731cdd2742b4e01a8
