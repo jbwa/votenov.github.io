@@ -3,7 +3,7 @@ layout: default
 ---
 ![VoteNov Stickers and buttons.](assets/voteNov.JPG){:class="img-responsive"}
 
-# Have you voice heard NOW
+# Have your voice heard NOW
 
 Between now and November 6, 2018, let's talk about voting, preparing to vote, helping other prepare to vote, and reminding each other that it is coming up very soon. Outside of the social and real life conversations, let's create some signs inviting others to vote with us. Here's your call to action:
 
